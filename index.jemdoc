@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{index.html}, nofooter  
+# jemdoc: menu{MENU}{index.html}, notime  
 = Pudong Ge
 
 ~~~
@@ -13,7 +13,7 @@ E-mail: pudong.ge19 \[at\] imperial.ac.uk\n
 ~~~
 
 == About me
-I received the B.S. and M.Sc. degrees in electrical engineering from Nanjing University of Science and Technology, and Southeast University, Nanjing, China, in 2016 and 2019, respectively. I am currently pursuing the PhD degree in electrical engineering under the supervision of [https://www.imperial.ac.uk/people/f.teng Dr. Fei Teng].
+I received the B.S. and M.Sc. degrees in electrical engineering from Nanjing University of Science and Technology, and Southeast University, Nanjing, China, in 2016 and 2019, respectively. I am currently pursuing the PhD degree in electrical engineering at Imperial College London under the supervision of [https://www.imperial.ac.uk/people/f.teng Dr. Fei Teng].
 
 == Research Interests
 - Power System
