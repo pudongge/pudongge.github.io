@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, notime, analytics{UA-177378559-1}
-= Pudong Ge (葛浦东)
+= Pudong Ge
 
 ~~~
 {}{img_left}{photos/my.jpg}{alt text}{110}{160}{https://pudongge.github.io/}
@@ -21,5 +21,6 @@ I received the B.S. and M.Sc. degrees in electrical engineering from Nanjing Uni
 - Cyber-Physical System
 
 == News
-to be updated
+- Aug 2020, Our journal paper titled "Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid" was accepted by /International Journal of Robust and Nonlinear Control/.
+- July 2020, Our journal paper titled "Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach" was accepted by /IEEE Transactions on Power Systems/.
 
