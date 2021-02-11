@@ -1,16 +1,24 @@
 # jemdoc: menu{MENU}{research.html}, notime, analytics{UA-177378559-1}
-= Pudong Ge - Research
+= Pudong Ge - Research & Publications
 
 == Featured Research
+TO BE UPDATE
 
 == Preprint
 
 == Journal Publications
 . *P. Ge*, B. Chen, and F. Teng, "[http://dx.doi.org/10.1002/rnc.5238 Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid]," /International Journal of Robust and Nonlinear Control/, Accepted.
 . *P. Ge*, Y. Zhu, T. Green, and F. Teng, "[https://ieeexplore.ieee.org/abstract/document/9149820 Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach]," /IEEE Transactions on Power Systems/, Early Access.
-. *P. Ge*, X. Dou, X. Quan, Q. Hu, W. Sheng, Z. Wu and W. Gu, "[https://ieeexplore.ieee.org/abstract/document/8580429 Extended-State-Observer-Based Distributed Robust Secondary Voltage and Frequency Control for an Autonomous Microgrid]," /IEEE Transactions on Sustainable Energy/, vol. 11, no. 1, pp. 195-205, Jan. 2020.
-. *P. Ge*, Q. Hu, Q. Wu, X. Dou, Z. Wu, and Y. Ding, "[https://ieeexplore.ieee.org/document/9018494 Increasing operational flexibility of integrated energy systems by introducing power to hydrogen]," /IET Renewable Power Generation/, vol. 14, no. 3, pp. 372-380, Nov. 2019.
+. *P. Ge*, X. Dou, X. Quan, et al., "[https://ieeexplore.ieee.org/abstract/document/8580429 Extended-State-Observer-Based Distributed Robust Secondary Voltage and Frequency Control for an Autonomous Microgrid]," /IEEE Transactions on Sustainable Energy/, vol. 11, no. 1, pp. 195-205, Jan. 2020.
+. *P. Ge*, Q. Hu, Q. Wu, et al., "[https://ieeexplore.ieee.org/document/9018494 Increasing operational flexibility of integrated energy systems by introducing power to hydrogen]," /IET Renewable Power Generation/, vol. 14, no. 3, pp. 372-380, Nov. 2019.
+. X. Dou, *P. Ge*, X. Quan, et al., "[http://www.pcsee.org/CN/article/downloadArticleFile.do?attachType=PDF&id=31183 Reactive Power and Voltage Robust Control for Active Distribution Network Considering Uncertain Delay (in Chinese)]," Zhongguo Dianji Gongcheng Xuebao/Proceedings of the Chinese Society of Electrical Engineering, vol. 39, no. 5, pp. 1290-1300, 2019.
+. J. Ma, X. Dou, K. Chen, Y. Jiao, and *P. Ge*, "[http://www.epae.cn/ch/reader/create_pdf.aspx?file_no=201910031&year_id=2019&quarter_id=10&falg=1 Design of network information observer based on Kalman filtering algorithm (in Chinese)]," Dianli Zidonghua Shebei/Electric Power Automation Equipment, vol. 39, no. 10, pp. 215-223, 2019.
+. X. Dou, L. Chang, C. Ni, X. Duan, *P. Ge*, and Z. Wu, "[http://www.aeps-info.com/aeps/article/pdf/20170221007 Multi-level Dispatching and Control of Active Distribution Network for Virtual Cluster of Distributed Photovoltaic (in Chinese)]," Dianli Xitong Zidonghua/Automation of Electric Power Systems, vol. 42, no. 3, pp. 21-31, 2018.
 
 == Conference Publications
+. T. Wang, X. Zhu, *P. Ge*, et al., "[https://ieeexplore.ieee.org/document/9041660 Expanding flexibility with P2H for integrated energy systems]", 8th Renewable Power Generation Conference (RPG 2019), Shanghai, China, pp. 1-6, 2019. 
+
+== Thesis
+- MSc Thesis: _Research on Multi-Level Robust Control Method For Distribution Network With Microgrids (in Chinese)_. \[[https://pudongge.github.io/docs/MSc_thesis.pdf PDF] [https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202001&filename=1020720253.nh&v=pPJy%25mmd2FsMvtphsuaAc9ff%25mmd2FhOd7mP7Wg1WMm7ViFTK6maElCjr9rsP5NeC0xwOGM8%25mmd2Fc CNKI]\]
 
 
