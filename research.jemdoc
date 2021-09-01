@@ -2,13 +2,17 @@
 = Pudong Ge - Research & Publications
 
 == Featured Research
-TO BE UPDATE
+. *Resilience-Oriented Coordination of Centralised Framework and Decentralised Framwork*
+
+. *Resilient Contro of Cyber-Physical Microgrid*
 
 == Preprint
+. "[A Resilience-Oriented Centralised-to-Decentralised Framework for Networked Microgrids Management]"
+. "[https://arxiv.org/abs/2104.09250 Resilient Distributed Self-Triggered Control of Networked Systems under Hybrid DoS Attacks] 
 
 == Journal Publications
-. *P. Ge*, B. Chen, and F. Teng, "[http://dx.doi.org/10.1002/rnc.5238 Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid]," /International Journal of Robust and Nonlinear Control/, Accepted.
-. *P. Ge*, Y. Zhu, T. Green, and F. Teng, "[https://ieeexplore.ieee.org/abstract/document/9149820 Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach]," /IEEE Transactions on Power Systems/, Early Access.
+. *P. Ge*, B. Chen, and F. Teng, "[http://dx.doi.org/10.1002/rnc.5238 Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid]," /International Journal of Robust and Nonlinear Control/, vol. 31, no. 6, pp. 1979–2000, Apr. 2021.
+. *P. Ge*, Y. Zhu, T. Green, and F. Teng, "[https://ieeexplore.ieee.org/abstract/document/9149820 Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach]," /IEEE Transactions on Power Systems/, vol. 36, no. 2, pp. 1059-1070, March 2021.
 . *P. Ge*, X. Dou, X. Quan, et al., "[https://ieeexplore.ieee.org/abstract/document/8580429 Extended-State-Observer-Based Distributed Robust Secondary Voltage and Frequency Control for an Autonomous Microgrid]," /IEEE Transactions on Sustainable Energy/, vol. 11, no. 1, pp. 195-205, Jan. 2020.
 . *P. Ge*, Q. Hu, Q. Wu, et al., "[https://ieeexplore.ieee.org/document/9018494 Increasing operational flexibility of integrated energy systems by introducing power to hydrogen]," /IET Renewable Power Generation/, vol. 14, no. 3, pp. 372-380, Nov. 2019.
 . X. Dou, *P. Ge*, X. Quan, et al., "[http://www.pcsee.org/CN/article/downloadArticleFile.do?attachType=PDF&id=31183 Reactive Power and Voltage Robust Control for Active Distribution Network Considering Uncertain Delay (in Chinese)]," Zhongguo Dianji Gongcheng Xuebao/Proceedings of the Chinese Society of Electrical Engineering, vol. 39, no. 5, pp. 1290-1300, 2019.
@@ -16,6 +20,7 @@ TO BE UPDATE
 . X. Dou, L. Chang, C. Ni, X. Duan, *P. Ge*, and Z. Wu, "[http://www.aeps-info.com/aeps/article/abstract/20170221007 Multi-level Dispatching and Control of Active Distribution Network for Virtual Cluster of Distributed Photovoltaic (in Chinese)]," Dianli Xitong Zidonghua/Automation of Electric Power Systems, vol. 42, no. 3, pp. 21-31, 2018.
 
 == Conference Publications
+. *P. Ge*, C. Konstantinou, and F. Teng, "Cyber-Physical Disaster Response of Power Supply Using a Centralised-to-Distributed Framework", IEEE SmartGridComm 2021, Aachen, Germany, Oct. 2021.
 . T. Wang, X. Zhu, *P. Ge*, et al., "[https://ieeexplore.ieee.org/document/9041660 Expanding flexibility with P2H for integrated energy systems]", 8th Renewable Power Generation Conference (RPG 2019), Shanghai, China, pp. 1-6, 2019. 
 
 == Thesis
