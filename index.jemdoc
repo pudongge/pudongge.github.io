@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jemdoc: menu{MENU}{index.html}, notime, analytics{UA-177378559-1}
 = Pudong Ge
 
@@ -29,37 +28,3 @@ I received the B.S. and M.Sc. degrees in electrical engineering from Nanjing Uni
 - Sep 2021, Our conference paper titled "_Cyber-Physical Disaster Response of Power Supply Using a Centralised-to-Distributed Framework_" was accepted by /IEEE SmartGridComm 2021/.
 - Aug 2020, Our journal paper titled "_Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid_" was accepted by /International Journal of Robust and Nonlinear Control/.
 - July 2020, Our journal paper titled "_Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach_" was accepted by /IEEE Transactions on Power Systems/.
-
-=======
-# jemdoc: menu{MENU}{index.html}, notime, analytics{UA-177378559-1}
-= Pudong Ge
-
-~~~
-{}{img_left}{photos/my.jpg}{alt text}{110}{160}{https://pudongge.github.io/}
-PhD Student\n 
-[https://www.imperial.ac.uk/electrical-engineering/research/control-and-power/ Control and Power (CAP) Research Group]\n
-[https://www.imperial.ac.uk/electrical-engineering/ Department of Electrical and Electronic Engineering]\n
-[https://www.imperial.ac.uk/ Imperial College London], South Kensington Campus\n
-London SW7 2AZ, UK \n 
-E-mail: pudong.ge19 \[at\] imperial.ac.uk\n
-[https://scholar.google.com/citations?user=q4uhugMAAAAJ&hl=en Google Scholar] and [https://pudongge.github.io/docs/pudong_resume_0211.pdf CV].
-~~~
-
-== About me
-I received the B.S. and M.Sc. degrees in electrical engineering from Nanjing University of Science and Technology, and Southeast University, Nanjing, China, in 2016 and 2019, respectively. I am currently pursuing the PhD degree in electrical engineering at Imperial College London under the supervision of [https://www.imperial.ac.uk/people/f.teng Dr. Fei Teng].
-
-== Research Interests
-- Power System
-- Distributed Control
-- Cyber-Physical System
-
-== News
-- June 2022, Congrats! Among work published between 1 January 2019 - 31 December 2020, Our journal paper titled "_Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid_" was among top 10 most downloaded papers of "_International Journal of Robust and Nonlinear Control_".
-- May 2022, Congrats! Our Brief paper titled "_Balancing Privacy and Access to Smart Meter Data_" (Sponored by Energy Future Lab at Imperial) was published and presented.
-- Nov 2021, Our journal paper titled "_A Resilience-Oriented Centralised-to-Decentralised Framework for Networked Microgrids Management_" was accepted by /Applied Energy/.
-- Oct 2021, on behalf of the collaborators, gave the online talk of "_Cyber-Physical Disaster Response of Power Supply Using a Centralised-to-Distributed Framework_" in /IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids, 25-28 October 2021/.
-- Sep 2021, Our conference paper titled "_Cyber-Physical Disaster Response of Power Supply Using a Centralised-to-Distributed Framework_" was accepted by /IEEE SmartGridComm 2021/.
-- Aug 2020, Our journal paper titled "_Event-triggered Distributed MPC for resilient voltage control of an islanded microgrid_" was accepted by /International Journal of Robust and Nonlinear Control/.
-- July 2020, Our journal paper titled "_Resilient Secondary Voltage Control of Islanded Microgrids: An ESKBF-Based Distributed Fast Terminal Sliding Mode Control Approach_" was accepted by /IEEE Transactions on Power Systems/.
-
->>>>>>> 26caa9b286c0a112473432a6eb234cdd5fa5e0a9
